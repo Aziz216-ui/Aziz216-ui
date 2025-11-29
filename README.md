@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Software Engineering student<br><br>📚 Currently studying:<br>Full Stack Development, DevOps, Software Architecture, Big Data & AI  <br>(Technologies: Spring, .NET, Symfony, Angular, AWS)<br><br>🎯 Career Goals:<br>- Software Engineer / DevOps Engineer / Cloud Engineer<br>- Contribute to real projects in industry<br>- Continuous learning & certifications (AWS, DevOps, Cloud)<br><br>🎲 Fun fact:<br>My code works… after coffee ☕</p>
+<p align="left">✨ Software Engineering student<br><br>📚 Currently studying:<br>Full Stack Development, DevOps, Software Architecture, Big Data & AI  <br>(Technologies: Spring, .NET, Symfony, Angular, AWS)<br><br>🎯 Career Goals:<br>- Software Engineer / DevOps Engineer <br>- Contribute to real projects in industry<br>- Continuous learning & certifications (AWS, DevOps, Cloud)<br><br>🎲 Fun fact:<br>My code works… after coffee ☕</p>
 
 ###
 
